@@ -1,0 +1,419 @@
+---
+title: "Spanish Class"
+subtitle: "Valley View YSA"
+date: today
+author: Kline DuBose
+format:
+  html:
+    code-fold: true
+    embed-resources: true
+    toc: true
+    toc-location: left
+    theme: simplex
+execute: 
+  warning: false
+  echo: true
+  cache: true
+editor_options: 
+  chunk_output_type: console
+---
+
+# Introduction
+
+The following document covers basic grammar, important phrases, and songs to help you learn some bassic Spanish.
+
+# Grammar Basics
+
+All verbs in Spanish end in "-ar", "-er", or "-ir". Though some verbs are conjugated differently, most verbs follow similar patterns.
+
+{{< video https://youtu.be/--hsVknT1c0 >}}
+
+## -ar
+
+| Pronoun           | English            | Verb | Example |
+|-------------------|:-------------------|:-----|:--------|
+| Yo                | I                  | -o   | Hablo   |
+| Tú                | You (Informal)     | -as  | Hablas  |
+| Él/Ella/Usted     | He/She/You (Formal)| -a   | Habla   |
+| Nosotros/-as      | We                 | -amos| Hablamos|
+| Ellos/-as/Ustedes | They/Y'all         | -an  | Hablan  |
+
+: Conjugation of "-ar" verbs with "Hablar" (To speak)
+
+## -er
+
+| Pronoun           | English            | Verb | Example   |
+|-------------------|:-------------------|:-----|:----------|
+| Yo                | I                  | -o   | Aprendo   |
+| Tú                | You (Informal)     | -es  | Aprendes  |
+| Él/Ella/Usted     | He/She/You (Formal)| -e   | Aprende   |
+| Nosotros/-as      | We                 | -emos| Aprendemos|
+| Ellos/-as/Ustedes | They/Y'all         | -en  | Aprenden  |
+
+: Conjugation of "-er" verbs with "Aprender" (To learn)
+
+## -ir
+
+| Pronoun           | English            | Verb | Example   |
+|-------------------|:-------------------|:-----|:----------|
+| Yo                | I                  | -o   | Vivo      |
+| Tú                | You (Informal)     | -es  | Vives     |
+| Él/Ella/Usted     | He/She/You (Formal)| -e   | Vive      |
+| Nosotros/-as      | We                 | -imos| Vivimos   |
+| Ellos/-as/Ustedes | They/Y'all         | -en  | Viven     |
+
+: Conjugation of "-ir" verbs with "Vivir" (To live)
+
+
+# Important Phrases
+
+Some important phrases, just in general.
+
+¿Dónde está el baño?
+: Where is the bathroom?
+
+Disculpe
+: Pardon me
+
+¿A dónde vas?
+: Where are you going?
+
+Voy a la iglesia. 
+: I am going to church.
+
+Voy a la biblioteca.
+: I am going to the library.
+
+Lo siento, pero no entiendo español.
+: I'm sorry, but I don't understand Spanish.
+
+No hablo español.
+: I don't speak Spanish.
+
+Mas despacio, por favor
+: Slower, please.
+
+A la izquierda
+: To the left
+
+A la derecha
+: To the right
+
+Sigue derecho
+: Keep going straight
+
+Estoy embarazado.
+: I'm pregnant.
+
+Solo tengo veinte pesos.
+: I only have twenty pesos. 
+
+¿Qué dijó un pes a otro pes?
+: What did one fish say to the other fish?
+
+Nada
+: Nothing (or command to swim)
+
+Gracias
+: Thank you
+
+Mucha gracias
+: Thank you, very much
+
+De nada
+: You're welcome
+
+Gracias a tí!
+: No, thank you! (More polite way to say you're welcome)
+
+No hablo español, pero estoy tratando de aprender.
+: I don't speak Spanish, but I am trying to learn.
+
+¿Me puedes ayudar?
+: Can you help me?
+
+¿Hablas ingles?
+: Do you speak English?
+
+# Songs to Help Learn
+
+## Con mi burito sabanero
+
+{{< video https://youtu.be/lJawRaON8h0?si=liI5Fq2htLkDMZ1d >}}
+
+|Spanish|English|
+|--|:-|
+|Con mi burrito sabanero, voy camino de Belén|With my little donkey, I'm going to Bethlehem|
+|Con mi burrito sabanero, voy camino de Belén| ... |
+|Si me ven, si me ven| If you see me, if you see me|
+|Voy camino de Belén | I'm going to Bethlehem|
+|Si me ven, si me ven| ... |
+|Voy camino de Belén | ... |
+|El lucerito mañanero ilumina mi sendero| The morning light (star) illuminates my path|
+|El lucerito mañanero ilumina mi sendero| ...|
+|Si me ven, si me ven |...|
+|Voy camino de Belén  |...|
+|Si me ven, si me ven |...|
+|Voy camino de Belén  |...|
+|Con mi cuatrico voy cantando, mi burrito va trotando|With my guitar, I sing while my little donky trots|
+|Con mi cuatrico voy cantando, mi burrito va trotando| .. |
+|Si me ven, si me ven |... |
+|Voy camino de Belén  |... |
+|Si me ven, si me ven |... |
+|Voy camino de Belén  |... |
+|Tuki tuki tuki tuki  |No meaning, just fun to say|
+|Tuki tuki tuki ta    |... |
+|Apúrate, mi burrito  | Hurry up, my little donkey|
+|Que ya vamos a llegar| We're about to get there |
+|Tuki tuki tuki tuki  |... |
+|Tuki tuki tuki tu    |... |
+|Apúrate mi burrito   | Hurry up, my little donkey|
+|Vamos a ver a Jesús  |We are going to see Jesus |
+
+: Repeated three times
+
+
+
+## El conejito de Jesús
+
+{{< video https://youtu.be/jGtCjngqy6Q?si=9DuJTTk2nmyOB7Cb >}}
+
+Jesús, Jesús, quiero contarte una cosa
+
+(A ver, ¿qué es?, dímelo, niña preciosa)
+
+Tengo un conejito negro con su cola corta y sus ojos café
+
+Dice mi tío Camilo, que lo halló jugando allá por el petén
+
+Ya ves, Jesús, ¿acaso te descuidaste?
+
+Dice mamá que los conejos son tuyos (aja)
+
+Vieras cómo se divierte jugando conmigo allá por el jardín (qué bien)
+
+Dime, Jesusito lindo, que me lo has prestado para ser feliz
+
+Sí, yo te lo presté, para que juegues con él
+
+No es conejo de peluche como algunos niños tienen por allí
+
+Este lo hice el otro día y te lo he mandado porque crees en mí
+
+Jesús, Jesús, quiero contarte una cosa
+
+(A ver, ¿qué es?, dímelo, niña preciosa)
+
+Tengo un conejito negro con su cola corta y sus ojos café
+
+Dice mi tío Camilo, que lo halló jugando allá por el petén
+
+(A ver, cuéntame más)
+
+Ya ves, Jesús, ¿acaso te descuidaste?
+
+Dice mamá que los conejos son tuyos
+
+Vieras cómo se divierte jugando conmigo allá por el jardín
+
+Dime, Jesusito lindo, que me lo has prestado para ser feliz
+
+Sí, yo te lo presté, para que juegues con él
+
+No es conejo de peluche como algunos niños tienen por allí
+
+Este lo hice el otro día y te lo he mandado porque crees en mí
+
+Sí, yo te lo presté, para que juegues con él
+
+No es conejo de peluche como algunos niños tienen por allí
+
+Este lo hice el otro día y te lo he mandado porque crees en mí
+
+## La macarena
+
+### Mostly English
+
+{{< video https://youtu.be/zWaymcVmJ-A?si=fFXHU31jNELFcAi2 >}}
+
+### Spanish (OG)
+
+{{< video https://youtu.be/uZW4vbIstoo?si=tqzLY8jRzcZ4CadP >}}
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Macarena tiene un novio que se llama
+
+Que se llama de apellido Vitorino
+
+Y en la jura de bandera del muchacho
+
+Se la dio con dos amigos, ay
+
+Macarena tiene un novio que se llama
+
+Que se llama de apellido Vitorino
+
+Y en la jura de bandera del muchacho
+
+Se la dio con dos amigos, ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Macarena, Macarena, Macarena
+
+Que te gustan los veranos de Marbella
+
+Macarena, Macarena, Macarena
+
+Que te gusta la movida guerrillera, ay
+
+Ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Macarena sueña con el corte inglés
+
+Y se compra los modelos más modernos
+
+Le gustaría vivir en Nueva York
+
+Y ligar un novio nuevo, ay
+
+Macarena sueña con el corte inglés
+
+Y se compra los modelos más modernos
+
+Le gustaría vivir en Nueva York
+
+Y ligar un novio nuevo, ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Macarena tiene un novio que se llama
+
+Que se llama de apellido Vitorino
+
+Y en la jura de bandera del muchacho
+
+Se la dio con dos amigos, ay
+
+Macarena tiene un novio que se llama
+
+Que se llama de apellido Vitorino
+
+Y en la jura de bandera del muchacho
+
+Se la dio con dos amigos, ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+Dale a tu cuerpo alegría, Macarena
+
+Hey Macarena, ay
+
+Dale a tu cuerpo alegría Macarena
+
+Que tu cuerpo es pa' darle alegría y cosa buena
+
+
