@@ -1,6 +1,6 @@
 ---
-title: "Spanish Class"
-subtitle: "Valley View YSA"
+title: "Spanish Cheat Sheet"
+subtitle: "For Fun"
 date: today
 author: Kline DuBose
 format:
@@ -10,6 +10,7 @@ format:
     toc: true
     toc-location: left
     theme: simplex
+    output-file: "spanish-cheat-sheet.html"
 execute: 
   warning: false
   echo: true
@@ -20,7 +21,7 @@ editor_options:
 
 # Introduction
 
-The following document covers basic grammar, important phrases, and songs to help you learn some bassic Spanish.
+The following document covers basic grammar, important phrases, and songs to help you learn some bassic Spanish. And additional phrases too sensitive
 
 # Grammar Basics
 
@@ -134,6 +135,58 @@ No hablo español, pero estoy tratando de aprender.
 
 ¿Hablas ingles?
 : Do you speak English?
+
+# Even More Important Phrases
+
+###
+
+Me tiraré un pedo en tu cara
+: I'll fart in your face
+
+<audio controls>
+  <source src="me_tirare.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
+
+###
+
+Tienes trasero lleno de popó
+: You have a poopy butt
+
+<audio controls>
+  <source src="tienes_cara.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
+
+###
+
+Nalga de popó
+: Poopy butt (literally, buttocks of poop)
+
+<audio controls>
+  <source src="nalga_de_popo.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
+
+###
+
+Cara de nalga
+: Butt face
+
+<audio controls>
+  <source src="cara.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
+
+###
+
+Tienes cara de nalga
+: You have a butt face
+
+<audio controls>
+  <source src="tienes_cara.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
 
 # Songs to Help Learn
 
